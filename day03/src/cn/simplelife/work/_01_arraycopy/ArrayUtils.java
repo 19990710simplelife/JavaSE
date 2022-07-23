@@ -1,7 +1,6 @@
 package cn.simplelife.work._01_arraycopy;
 
 import java.util.Arrays;
-import java.util.Random;
 
 public class ArrayUtils {
 
